@@ -27,6 +27,12 @@ nav {
     padding-left: 10px;
 }
 
+.logo a { text-decoration: none; color:#fff; }
+.logo a:visited { text-decoration: none; }
+.logo a:hover { text-decoration: none; }
+.logo a:focus { text-decoration: none; }
+.logo a:hover, a:active { text-decoration: none; }
+
 nav .nav-links ul {
     display: flex;
     flex-direction: row;
